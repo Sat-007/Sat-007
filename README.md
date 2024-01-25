@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Sathvik Kumar
+
+👩🏻‍🎓 Studied Computer Science at the Florida Institute of Technology, Florida
+💭 Currently learning about data science and seeking employment
 
 <!--
 **Sat-007/Sat-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
