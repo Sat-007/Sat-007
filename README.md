@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on something cool<br>🌱 I’m currently learning different technologies<br>💬 Ask me anything related to Python/Java or MySQL<br>⚡ Fun fact I <3 Gaming, [Steam Profile: (https://steamcommunity.com/id/sat_007/)]
+🔭 Currently working on something cool<br>🌱 I’m currently learning different technologies<br>💬 Ask me anything related to Python/Java or MySQL<br>⚡ Fun fact I <3 Gaming, [Steam Profile:](https://steamcommunity.com/id/sat_007/)
 
 
 ## 🌐 Socials:
