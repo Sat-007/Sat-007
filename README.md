@@ -15,6 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+CONTRIBUTION GETTING SNAKE'D
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=Sat-007&icon=2&color=7)](https://visitcount.itsvg.in)
 
