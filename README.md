@@ -1,22 +1,107 @@
-# 💫 About Me:
-🔭 Currently working on something cool<br>🌱 I’m currently learning different technologies<br>💬 Ask me anything related to Python/Java or MySQL<br>⚡ Fun fact I <3 Gaming, [Steam Profile](https://steamcommunity.com/id/sat_007/)
+<h1> <b>Hello</b>  🙏🏻, I'm Sathvik Kumar </h1>
+<br>
+<div>
+<a href="https://www.linkedin.com/in/kssathvik/">
+  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/u/Sat_007/">
+    <img align="left" alt="Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>
+  &nbsp;
+<a href="https://github.com/Sat-007/">
+    <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  &nbsp;
+<a href="mailto:sathvikks123@gmail.com">
+    <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+  </a>
+  &nbsp;
+<a href="https://steamcommunity.com/id/sat_007/">
+    <img align="left" alt="Steam" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />
+  </a>
+  &nbsp;
+<a href="https://www.instagram.com/sat__007/">
+    <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+</a>
+  &nbsp;
 
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sat__007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kssathvik) 
+<br>
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sat-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sat-007&theme=dark&hide_border=false)<br/>
+- 👨‍💻 **Passionate Programming** Enthusiast  and **Tech Innovator**
+- I like to use a variety of useful **computer software** and **Tools**
+- Always up for learning new **technologies**
+
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+**Talking about Personal Stuffs:**
+
+- 👨‍🏛 Master's in Science From **Florida Institute of Technology**
+- 💻 Major is **Computer Science**.
+- 🌱 I'm currently learning **Go Language**.
+- 🤔 My hobbies are **playing games**.
+- 💫 I have an **Hypercompetitive disorder**.
+- 💬 If you have any questions, **just ask me**.
+- ⚡Favorite Movie Quote **You either die a hero or live long enough to see yourself become the villain**
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+<br>
+
+![Sat_007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sat-007\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sat-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sat-007&theme=midnight-purple)](https://git.io/streak-stats)
 
+</div>
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sat-007&icon=2&color=7)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,c,cs,cpp" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,css" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,linux,anaconda" />
+  </a>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kssathvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kssathvik" height="30" width="40" /></a>
+</p>
