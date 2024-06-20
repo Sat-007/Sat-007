@@ -34,7 +34,7 @@
 - I like to use a variety of useful **computer software** and **Tools**
 - Always up for learning new **technologies**
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="top" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 **Talking about Personal Stuffs:**
 
@@ -56,12 +56,15 @@
 
 ![Sat_007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sat-007\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sat-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sat-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact " alt="Sat-007"/>
+
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sat-007&theme=midnight-purple)](https://git.io/streak-stats)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sat-007&theme=midnight-purple)](https://git.io/streak-stats)
 </div>
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
