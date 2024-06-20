@@ -55,12 +55,11 @@
 <br>
 
 ![Sat_007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sat-007\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sat-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact " alt="Sat-007"/>
-
 <br>
 
 
+![Sat_007's Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Sat-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sat-007&theme=midnight-purple)](https://git.io/streak-stats)
 </div>
