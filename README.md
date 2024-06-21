@@ -1,4 +1,4 @@
-<h1> <b>Hello</b>  🙏🏻, I'm Sathvik Kumar </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+%C3%8Dsland&duration=4991&pause=1000&color=F75E15&random=false&width=435&lines=Hi+%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Sathvik+Kumar!!;Welcome+to+my+Profile)](https://git.io/typing-svg)
 <br>
 <div>
 <a href="https://www.linkedin.com/in/kssathvik/">
