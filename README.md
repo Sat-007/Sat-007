@@ -34,7 +34,7 @@
 - I like to use a variety of useful **computer software** and **Tools**
 - Always up for learning new **technologies**
 
-<img align="top" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="top" alt="Coding" width="400" src="https://github.com/Sat-007/Sat-007/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true"/>
 
 **Talking about Personal Stuffs:**
 
