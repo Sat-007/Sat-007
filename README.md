@@ -40,7 +40,7 @@
 
 - 👨‍🏛 Master's in Science From **Florida Institute of Technology**
 - 💻 Major is **Computer Science**.
-- 🌱 I'm currently learning **Go Language**.
+- 🌱 I'm currently working on multiple things **Learning Go Language** and **AWS cloud certification**.
 - 🤔 My hobbies are **playing games**.
 - 💫 I have an **Hypercompetitive disorder**.
 - 💬 If you have any questions, **just ask me**.
