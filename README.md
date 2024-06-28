@@ -50,6 +50,8 @@
 <br><br>
 <br><br>
 
+![](https://komarev.com/ghpvc/?username=Sat-007&color=lightgray)
+
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 <br>
