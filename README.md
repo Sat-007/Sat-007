@@ -34,7 +34,7 @@
 - I like to use a variety of useful **computer software** and **Tools**
 - Always up for learning new **technologies**
 
-<img align="top" alt="Coding" width="400" src="https://github.com/Sat-007/Sat-007/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true"/>
+<img align="right" alt="Coding" width="300" src="https://github.com/Sat-007/Sat-007/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true"/>
 
 **Talking about Personal Stuffs:**
 
@@ -46,25 +46,10 @@
 - 💬 If you have any questions, **just ask me**.
 - ⚡Favorite Movie Quote **You either die a hero or live long enough to see yourself become the villain**
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-
 ![](https://komarev.com/ghpvc/?username=Sat-007&color=lightgray)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sat-007&include_all_commits=false&count_private=false&layout=compact" alt="Sat007" /></p>
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-<br>
-
-![Sat_007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sat-007\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-<br>
-
-
-![Sat_007's Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Sat-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sat-007&theme=midnight-purple)](https://git.io/streak-stats)
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sat-007&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues" alt="sat007" /></p>
 
 <br>
 
